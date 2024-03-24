@@ -1,5 +1,5 @@
 package dev.hetu.BookMyShow.model;
 
 public enum SeatType {
-    SILVER,GOLD,PLATUNUM;
+    SILVER,GOLD,PLATUNUM
 }
